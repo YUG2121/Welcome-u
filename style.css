@@ -10,12 +10,13 @@ font-family:'merriweather', serif;
     left: 223px;
     margin: 23px;}
         #container1{
-            position: relative;
+            
             margin: 0;
             text-align: center;
-            height: 39pc;
+            height: 41pc;
     width: 204vh;
         background-color: #E4F5F9;
+            display: block;
         }
         h1{font-family: 'Sacramento', cursive;
             color: #66BFBF;
@@ -63,6 +64,7 @@ font-family:'merriweather', serif;
             }
 .mount{
 margin-top: 12px;
+    padding: 4px;
 }
             .desigen{width: 25%;
             float: left;
